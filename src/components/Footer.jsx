@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import { quickLinks, settingMenu } from "../utils/constants";
+import { quickLinks, settingMenu } from "../utils/Constants.jsx";
 
 const Footer = () => {
     return (
